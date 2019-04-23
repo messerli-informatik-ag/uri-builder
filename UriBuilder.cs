@@ -1,14 +1,14 @@
 ﻿using System;
 using System.Text;
 
-namespace Update.Client.ServerCommunication.Rest
+namespace UriBuilder
 {
-    public class RestServiceUriBuilder : IUriBuilder
+    public class UriBuilder : IUriBuilder
     {
         private readonly Uri _root;
         private readonly StringBuilder _paths;
 
-        public RestServiceUriBuilder(Uri root)
+        public UriBuilder(Uri root)
         {
             _root = root;
             _paths = new StringBuilder();

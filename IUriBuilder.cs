@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace Update.Client.ServerCommunication
+namespace UriBuilder
 {
-    public interface IServiceUriBuilder
+    public interface IUriBuilder
     {
-        IServiceUriBuilder Path(string path);
+        IUriBuilder Path(string path);
 
         Uri Build();
     }
