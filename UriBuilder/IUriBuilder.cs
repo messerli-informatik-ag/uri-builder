@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UriBuilder
+namespace Messerli.UriBuilder
 {
     public interface IUriBuilder
     {

@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Messerli.UriBuilder</AssemblyName>
+    <RootNamespace>Messerli.UriBuilder</RootNamespace>
   </PropertyGroup>
 
 </Project>

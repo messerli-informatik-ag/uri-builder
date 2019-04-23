@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace UriBuilder
+namespace Messerli.UriBuilder
 {
     public class UriBuilder : IUriBuilder
     {
