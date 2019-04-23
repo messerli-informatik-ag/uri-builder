@@ -1,7 +1,7 @@
 ﻿using System;
 using Xunit;
 
-namespace UriBuilder.Test
+namespace Messerli.UriBuilder.Test
 {
     public class UriBuilderTest
     {
