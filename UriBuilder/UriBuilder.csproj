@@ -12,7 +12,6 @@
         <PackageId>Messerli.UriBuilder</PackageId>
         <PackageTags>uri builder</PackageTags>
         <PackageLicenseExpression>MIT OR Apache-2.0</PackageLicenseExpression>
-        <Authors>Jan Nils Ferner, Dominic Groth, Thomas Bruderer</Authors>
         <Copyright>© Messerli Informatik AG. All rights reserved.</Copyright>
         <Description>Class library dealing with creation of Uri.</Description>
     </PropertyGroup>
