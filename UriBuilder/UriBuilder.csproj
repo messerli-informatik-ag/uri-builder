@@ -15,5 +15,4 @@
         <Copyright>© Messerli Informatik AG. All rights reserved.</Copyright>
         <Description>Class library dealing with creation of Uri.</Description>
     </PropertyGroup>
-    <Import Project="..\.paket\Paket.Restore.targets" />
 </Project>
