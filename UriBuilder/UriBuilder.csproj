@@ -5,6 +5,7 @@
         <TargetFramework>netstandard2.0</TargetFramework>
         <AssemblyName>Messerli.UriBuilder</AssemblyName>
         <RootNamespace>Messerli.UriBuilder</RootNamespace>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
     </PropertyGroup>
     <PropertyGroup>
         <RepositoryUrl>https://github.com/messerli-informatik-ag/uri-builder</RepositoryUrl>

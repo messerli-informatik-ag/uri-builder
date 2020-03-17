@@ -5,6 +5,8 @@ namespace Messerli.UriBuilder.Test
 {
     public class UriBuilderTest
     {
+        private static Uri Root => new Uri("https://foo.bar");
+
         [Fact]
         public void BuildsRoot()
         {
@@ -37,7 +39,6 @@ namespace Messerli.UriBuilder.Test
             Assert.Equal(expectedRoot, uri);
         }
 
-
         [Fact]
         public void AppendsSanitizedPaths()
         {
@@ -49,7 +50,5 @@ namespace Messerli.UriBuilder.Test
 
             Assert.Equal(expectedRoot, uri);
         }
-
-        private static Uri Root => new Uri("https://foo.bar");
     }
 }

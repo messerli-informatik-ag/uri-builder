@@ -5,6 +5,7 @@
         <IsPackable>false</IsPackable>
         <AssemblyName>Messerli.UriBuilder.Test</AssemblyName>
         <RootNamespace>Messerli.UriBuilder.Test</RootNamespace>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
     </PropertyGroup>
     <ItemGroup>
         <PackageReference Include="Microsoft.NET.Test.Sdk" />
