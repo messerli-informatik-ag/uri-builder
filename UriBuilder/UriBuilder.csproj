@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk; Microsoft.Build.CentralPackageVersions">
     <PropertyGroup>
-        <Version>0.1.1</Version>
+        <Version>0.1.2</Version>
         <TargetFramework>netstandard2.0</TargetFramework>
         <AssemblyName>Messerli.UriBuilder</AssemblyName>
         <RootNamespace>Messerli.UriBuilder</RootNamespace>
@@ -13,7 +13,6 @@
         <PackageId>Messerli.UriBuilder</PackageId>
         <PackageTags>uri builder</PackageTags>
         <PackageLicenseExpression>MIT OR Apache-2.0</PackageLicenseExpression>
-        <Copyright>© Messerli Informatik AG. All rights reserved.</Copyright>
         <Description>Class library dealing with creation of Uri.</Description>
     </PropertyGroup>
 </Project>
